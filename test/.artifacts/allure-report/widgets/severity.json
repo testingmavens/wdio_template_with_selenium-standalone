@@ -1,0 +1,1 @@
+[{"uid":"e00c29362ae787d","name":"the login page should have a header displayed","time":{"start":1675321153368,"stop":1675321154435,"duration":1067},"status":"passed","severity":"normal"},{"uid":"de59f3bdf6512a28","name":"User should be able to load url","time":{"start":1675321147149,"stop":1675321153367,"duration":6218},"status":"passed","severity":"normal"}]

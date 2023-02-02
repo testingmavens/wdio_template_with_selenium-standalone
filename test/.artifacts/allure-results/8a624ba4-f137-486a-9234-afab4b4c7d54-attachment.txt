@@ -1,0 +1,3 @@
+URL  : https://imgak.mmtcdn.com/pwa/assets/img/mmt_launcher_144x144.png
+ Method : GET
+ StatusCode  : 200

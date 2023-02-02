@@ -1,0 +1,3 @@
+URL  : https://jsak.mmtcdn.com/adTech_v1.0/adScript/build/adSdk-f31527fe8cedb3548a859a6a08265aa2.min.js
+ Method : GET
+ StatusCode  : 200

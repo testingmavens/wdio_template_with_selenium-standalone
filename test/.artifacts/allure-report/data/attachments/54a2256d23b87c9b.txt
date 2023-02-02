@@ -1,0 +1,3 @@
+URL  : https://adorch.makemytrip.com/ext/get/script/config
+ Method : GET
+ StatusCode  : 200

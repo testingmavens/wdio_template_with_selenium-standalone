@@ -1,0 +1,3 @@
+URL  : https://jsak.mmtcdn.com/pwa_v3/pwa_commons/js/PdtLog.8d4f68f7a564acb989aa.js
+ Method : GET
+ StatusCode  : 200
