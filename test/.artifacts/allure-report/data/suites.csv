@@ -1,3 +1,5 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Thu Feb 02 12:29:07 IST 2023","Thu Feb 02 12:29:13 IST 2023","6218","","Work flow for Make my trip","","Work flow for Make my trip","User should be able to load url","User should be able to load url",""
-"passed","Thu Feb 02 12:29:13 IST 2023","Thu Feb 02 12:29:14 IST 2023","1067","","Work flow for Make my trip","","Work flow for Make my trip","the login page should have a header displayed","the login page should have a header displayed",""
+"passed","Thu Feb 02 15:30:26 IST 2023","Thu Feb 02 15:30:33 IST 2023","7620","","Work flow for Make my trip","","Work flow for Make my trip","User should be able to load url","User should be able to load url",""
+"passed","Thu Feb 02 15:30:27 IST 2023","Thu Feb 02 15:30:36 IST 2023","8234","","Work flow for Make my trip","","Work flow for Make my trip","User should be able to load url","User should be able to load url",""
+"passed","Thu Feb 02 15:30:36 IST 2023","Thu Feb 02 15:30:37 IST 2023","896","","Work flow for Make my trip","","Work flow for Make my trip","the login page should have a header displayed","the login page should have a header displayed",""
+"passed","Thu Feb 02 15:30:33 IST 2023","Thu Feb 02 15:30:34 IST 2023","958","","Work flow for Make my trip","","Work flow for Make my trip","the login page should have a header displayed","the login page should have a header displayed",""

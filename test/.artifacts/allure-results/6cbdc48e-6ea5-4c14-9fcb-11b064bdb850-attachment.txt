@@ -1,0 +1,3 @@
+URL  : https://jsak.mmtcdn.com/pwa_v3/hotels_mmt_thankyou_assets/mmtThankYouRemoteEntry.js?version=1675332027924
+ Method : GET
+ StatusCode  : 200

@@ -1,0 +1,121 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1675332026302' stop='1675332034886'>
+    <name>Work flow for Make my trip</name>
+    <title>Work flow for Make my trip</title>
+    <test-cases>
+        <test-case start='1675332026305' status='passed' stop='1675332033925'>
+            <name>User should be able to load url</name>
+            <title>User should be able to load url</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-109.0.5414.120'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f6146afd-e4b8-4316-b0e5-d6058405adef-attachment.png' type='image/png' size='312403'/>
+                <attachment title='GET : https://www.makemytrip.com/' source='4f8367cf-5ad9-4003-86d0-b3d6f8c33c65-attachment.txt' type='text/plain' size='67'/>
+                <attachment title='GET : https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,900&amp;display=swap' source='d68a7ae3-02ce-48f6-aa54-2eb5ce12c04e-attachment.txt' type='text/plain' size='118'/>
+                <attachment title='GET : https://www.makemytrip.com/_sec/cp_challenge/sec-3-9.css' source='43868768-5c1c-49ea-9214-0dc9fed109dc-attachment.txt' type='text/plain' size='96'/>
+                <attachment title='GET : https://www.makemytrip.com/_sec/cp_challenge/sec-cpt-3-9.js' source='3b62de27-2744-48a6-bfa9-b82fa7f9416a-attachment.txt' type='text/plain' size='99'/>
+                <attachment title='GET : https://www.makemytrip.com/da5vuSAqce/tK40BXa-/xv/VYYOwQXrS3uk/FB0BajANQQk/ZkE/7RkUHQww' source='7fb59b1a-6eb9-443c-b4a7-1fa0028bcde4-attachment.txt' type='text/plain' size='127'/>
+                <attachment title='GET : https://imgak.mmtcdn.com/pwa_v3/pwa_commons_assets/desktop/flagSprite2.png' source='dad10c7a-6384-49ca-a18f-d3a20a1da114-attachment.txt' type='text/plain' size='114'/>
+                <attachment title='GET : https://jsak.mmtcdn.com/adTech_v1.0/adScript/build/version-mmt.min.js' source='74ca8a83-52dc-42b3-93d8-e6b876a7bbd9-attachment.txt' type='text/plain' size='109'/>
+                <attachment title='GET : https://imgak.mmtcdn.com/pwa_v3/pwa_hotel_assets/header/mmtLogoWhite.png' source='19ce5dd8-0e27-44ef-bb8e-34b0490aebf8-attachment.txt' type='text/plain' size='112'/>
+                <attachment title='GET : https://imgak.mmtcdn.com/pwa_v3/pwa_hotel_assets/header/logo@2x.png' source='f47de644-48fe-4d3c-aaa0-1f6330f84f5a-attachment.txt' type='text/plain' size='107'/>
+                <attachment title='GET : https://imgak.mmtcdn.com/pwa_v3/pwa_commons_assets/desktop/commonHeaderSprite11.webp' source='fa2188ed-b970-4700-b5f9-666675e4b924-attachment.txt' type='text/plain' size='124'/>
+                <attachment title='GET : https://jsak.mmtcdn.com/pwa_v3/pwa_commons/pwatracker.js' source='751b748b-9d98-4de9-9b80-4dad9f4195a7-attachment.txt' type='text/plain' size='96'/>
+                <attachment title='GET : https://jsak.mmtcdn.com/pwa_v3/pwa_commons/js/desktop.f0cb56ad020ee499679a.js' source='4e1b5225-9337-4eb0-804d-57d14dd18dd8-attachment.txt' type='text/plain' size='117'/>
+                <attachment title='GET : https://jsak.mmtcdn.com/pwa_v3/pwa_commons/js/webpackManifest.0cfa9cc02f3993611605.js' source='db67f471-9e2f-457c-908f-d24de0b4b385-attachment.txt' type='text/plain' size='125'/>
+                <attachment title='GET : https://jsak.mmtcdn.com/pwa_v3/pwa_commons/js/FlightLandingPage.27d90dd5e50856d84e1e.js' source='3fc19a8a-90b6-4ba7-956c-30c5e84a5e00-attachment.txt' type='text/plain' size='127'/>
+                <attachment title='GET : https://jsak.mmtcdn.com/pwa_v3/pwa_commons/js/vendor-desktop-latest.448fb7bdd5edc0f9c0c3.js' source='07ecee5b-dd2e-4d21-9790-c4d67412892b-attachment.txt' type='text/plain' size='131'/>
+                <attachment title='GET : https://imgak.mmtcdn.com/pwa_v3/pwa_commons_assets/desktop/landingSprite@22x.webp' source='0ae3921d-4adf-4b5c-ad5c-0db8ebbfb5bf-attachment.txt' type='text/plain' size='121'/>
+                <attachment title='GET : https://ssl.widgets.webengage.com/js/webengage-min-v-6.0.js' source='7ef0cd45-f292-48f2-a285-92a39fe9c5c0-attachment.txt' type='text/plain' size='99'/>
+                <attachment title='POST : https://www.makemytrip.com/da5vuSAqce/tK40BXa-/xv/VYYOwQXrS3uk/FB0BajANQQk/ZkE/7RkUHQww' source='0b1a441d-3992-443f-a970-92199c71ffbe-attachment.txt' type='text/plain' size='128'/>
+                <attachment title='GET : https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh50XSwiPGQ.woff2' source='45685eb7-8e87-452e-a5c3-17c9cfe4da92-attachment.txt' type='text/plain' size='105'/>
+                <attachment title='GET : https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh6UVSwiPGQ.woff2' source='4167168a-6b21-4cf0-89b6-6f651c4c9b11-attachment.txt' type='text/plain' size='105'/>
+                <attachment title='GET : https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjx4wXg.woff2' source='eeda67a1-0066-4a1f-bda2-3312ea2ee0c3-attachment.txt' type='text/plain' size='101'/>
+                <attachment title='GET : https://dpm.demdex.net/id?d_visid_ver=4.3.0&amp;d_fieldgroup=MC&amp;d_rtbd=json&amp;d_ver=2&amp;d_verify=1&amp;d_orgid=1E0D22CE527845790A490D4D%40AdobeOrg&amp;d_nsid=0&amp;ts=1675332027904' source='53914c39-fd75-423f-a4c5-800fea44ad71-attachment.txt' type='text/plain' size='200'/>
+                <attachment title='GET : https://jsak.mmtcdn.com/pwa_v3/pwa_commons/js/3859.71393743cf2a7941bae9.js' source='d34f1fa7-6a16-4d92-8469-5d63128bd53b-attachment.txt' type='text/plain' size='114'/>
+                <attachment title='GET : https://jsak.mmtcdn.com/pwa_v3/pwa_commons/js/949.426174b6f043d3908c3e.js' source='4b80bc24-1af4-402d-a726-23a4f3be5ae7-attachment.txt' type='text/plain' size='113'/>
+                <attachment title='GET : https://dpm.demdex.net/id/rd?d_visid_ver=4.3.0&amp;d_fieldgroup=MC&amp;d_rtbd=json&amp;d_ver=2&amp;d_verify=1&amp;d_orgid=1E0D22CE527845790A490D4D%40AdobeOrg&amp;d_nsid=0&amp;ts=1675332027904' source='f3e91437-3b6b-40b0-9d18-82971affc253-attachment.txt' type='text/plain' size='203'/>
+                <attachment title='GET : https://metrics.makemytrip.com/id?d_visid_ver=4.3.0&amp;d_fieldgroup=MC&amp;mcorgid=1E0D22CE527845790A490D4D%40AdobeOrg&amp;ts=1675332028374' source='ffb9e417-c35b-4954-8858-2c1138ace287-attachment.txt' type='text/plain' size='168'/>
+                <attachment title='GET : https://jsak.mmtcdn.com/pwa_v3/flights_thankyou_assets/mmtFlightsThankYouRemoteEntry.js?version=1675332027924' source='205eed49-5b9a-4df7-979c-cadecfc40cb3-attachment.txt' type='text/plain' size='149'/>
+                <attachment title='GET : https://jsak.mmtcdn.com/pwa_v3/hotels_mmt_thankyou_assets/mmtThankYouRemoteEntry.js?version=1675332027924' source='6cbdc48e-6ea5-4c14-9fcb-11b064bdb850-attachment.txt' type='text/plain' size='145'/>
+                <attachment title='GET : https://dpm.demdex.net/id?d_visid_ver=4.3.0&amp;d_fieldgroup=AAM&amp;d_rtbd=json&amp;d_ver=2&amp;d_orgid=1E0D22CE527845790A490D4D%40AdobeOrg&amp;d_nsid=0&amp;d_mid=26811472003403144060715970487088641069&amp;ts=1675332028564' source='d126acbd-cead-4895-9565-e1ffd2108189-attachment.txt' type='text/plain' size='235'/>
+                <attachment title='POST : https://www.makemytrip.com/da5vuSAqce/tK40BXa-/xv/VYYOwQXrS3uk/FB0BajANQQk/ZkE/7RkUHQww' source='3e5a7313-4891-4c07-9987-400055585c18-attachment.txt' type='text/plain' size='128'/>
+                <attachment title='POST : https://www.makemytrip.com/da5vuSAqce/tK40BXa-/xv/VYYOwQXrS3uk/FB0BajANQQk/ZkE/7RkUHQww' source='d3124fcf-9d75-4d0b-a519-025fd1719815-attachment.txt' type='text/plain' size='128'/>
+                <attachment title='GET : https://jsak.mmtcdn.com/pwa_v3/pwa_commons/js/3009.5a3c4a7bcee7368792d0.js' source='497fb77b-c8da-4aa3-85ba-9e1fb810b0e1-attachment.txt' type='text/plain' size='114'/>
+                <attachment title='GET : https://jsak.mmtcdn.com/pwa_v3/pwa_commons/js/3770.4bfb21ab944afe1d6beb.js' source='92c267d9-ff5b-483f-bd5e-710c10691b0d-attachment.txt' type='text/plain' size='114'/>
+                <attachment title='POST : https://www.makemytrip.com/da5vuSAqce/tK40BXa-/xv/VYYOwQXrS3uk/FB0BajANQQk/ZkE/7RkUHQww' source='eee158ca-bee5-4648-9eed-7d295cacc97e-attachment.txt' type='text/plain' size='128'/>
+                <attachment title='GET : https://jsak.mmtcdn.com/pwa_v3/pwa_commons/js/7211.972fcdc63fd441eef9f0.js' source='dac7542a-fc81-4546-831f-842d41ab68be-attachment.txt' type='text/plain' size='114'/>
+                <attachment title='GET : https://jsak.mmtcdn.com/pwa_v3/pwa_commons/js/8808.af77dcb2208548c69f0f.js' source='d5a136f0-fbb0-4e47-a031-1c00785b511c-attachment.txt' type='text/plain' size='114'/>
+                <attachment title='GET : https://311c47d7.webengage.co/storage-frame-1.18.htm?cdn=y&amp;cbf=webengage-engagement-callback-frame&amp;lc=311c47d7' source='d6c82eba-5ddc-4772-96a4-83ca206b3bea-attachment.txt' type='text/plain' size='150'/>
+                <attachment title='GET : https://metrics.makemytrip.com/b/ss/mmtprod/1/JS-2.14.0/s36001021593393?AQB=1&amp;ndh=1&amp;pf=1&amp;t=2%2F1%2F2023%2015%3A30%3A29%204%20-330&amp;mid=26811472003403144060715970487088641069&amp;aamlh=12&amp;ce=UTF-8&amp;ns=makemytrip&amp;cdp=2&amp;fpCookieDomainPeriods=2&amp;pageName=landing%3Abrand%3Ahomepage%3Aindia-MHP&amp;g=https%3A%2F%2Fwww.makemytrip.com%2F&amp;events=event17%2Cevent18&amp;aamb=j8Odv6LonN4r3an7LhD3WZrU1bUpAkFkkiY1ncBR96t2PTI&amp;v15=landing%3Abrand%3Ahomepage%3Aindia-MHP&amp;v18=1&amp;c27=%2F&amp;v27=D%3Dc27&amp;c28=NoServerIP&amp;v28=NoServerIP&amp;c37=VisitorAPI%20Present&amp;c38=26811472003403144060715970487088641069&amp;c41=New%7CNew%7CNew%7CNew&amp;v41=D%3Dc41&amp;v51=D%3Dv0&amp;v52=D%3Dv0&amp;v53=D%3Dv0&amp;v54=D%3Dv0&amp;v55=D%3Dv0&amp;c56=First%20Visit&amp;v56=D%3Dv0&amp;c57=1&amp;v57=D%3Dv0&amp;c74=None&amp;c75=None&amp;v84=26811472003403144060715970487088641069&amp;s=1280x720&amp;c=24&amp;j=1.6&amp;v=N&amp;k=Y&amp;bw=1283&amp;bh=605&amp;mcorgid=1E0D22CE527845790A490D4D%40AdobeOrg&amp;AQE=1' source='5cef5917-83c0-42ee-8d8e-663b33b12f18-attachment.txt' type='text/plain' size='900'/>
+                <attachment title='GET : https://metrics.makemytrip.com/b/ss/mmtprod/1/JS-2.14.0/s35951218835994?AQB=1&amp;ndh=1&amp;pf=1&amp;t=2%2F1%2F2023%2015%3A30%3A29%204%20-330&amp;mid=26811472003403144060715970487088641069&amp;aamlh=12&amp;ce=UTF-8&amp;ns=makemytrip&amp;cdp=2&amp;fpCookieDomainPeriods=2&amp;pageName=landing%3Abrand%3Ahomepage%3Aindia-MHP&amp;g=https%3A%2F%2Fwww.makemytrip.com%2F&amp;ch=MHP&amp;events=event17%2Cevent18&amp;aamb=j8Odv6LonN4r3an7LhD3WZrU1bUpAkFkkiY1ncBR96t2PTI&amp;v1=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F109.0.0.0%20Safari%2F537.36&amp;v15=landing%3Abrand%3Ahomepage%3Aindia-MHP&amp;v18=1&amp;c23=landing%3Abrand%3Ahomepage%3Aindia-MHP&amp;v23=D%3Dc23&amp;c24=brand&amp;v24=D%3Dc24&amp;c27=%2F&amp;v27=D%3Dc27&amp;c28=NoServerIP&amp;v28=NoServerIP&amp;c37=VisitorAPI%20Present&amp;v37=domain_sbu%3Aindia%7Cdomain_country%3Ain%7Cdomain_currency%3Ainr%7Cdomain_language%3Aeng&amp;c38=26811472003403144060715970487088641069&amp;v39=Guest&amp;c41=New%7CNew%7CNew%7CNew&amp;v41=D%3Dc41&amp;c42=%3A%3Affff%3A127.0.0.1&amp;v47=HLP_Cosmos_revamp%20&amp;v51=D%3Dv0&amp;v52=D%3Dv0&amp;v53=D%3Dv0&amp;v54=D%3Dv0&amp;v55=D%3Dv0&amp;c56=First%20Visit&amp;v56=D%3Dv0&amp;v57=D%3Dv0&amp;c72=landing%3Abrand%3Ahomepage%3Aindia-MHP&amp;c73=18%7C18&amp;c74=Less%20than%2025%25&amp;c75=Less%20than%2025%25&amp;v84=26811472003403144060715970487088641069&amp;s=1280x720&amp;c=24&amp;j=1.6&amp;v=N&amp;k=Y&amp;bw=1283&amp;bh=605&amp;mcorgid=1E0D22CE527845790A490D4D%40AdobeOrg&amp;AQE=1' source='7a6fcb37-0f39-49e8-9df8-78ea5707bc25-attachment.txt' type='text/plain' size='1377'/>
+                <attachment title='OPTIONS : https://mapi.makemytrip.com/mobile-core-api-web/api/home/config/v1?brand=mmt&amp;profile=b2c&amp;device=dt&amp;version=NT%2010.0&amp;region=in&amp;language=eng&amp;currency=inr' source='9fc211b9-5acf-4244-b443-f386babfb4dd-attachment.txt' type='text/plain' size='196'/>
+                <attachment title='OPTIONS : https://mapi.makemytrip.com/empeiria/api/v2/desktophome?brand=mmt&amp;profile=b2c&amp;device=dt&amp;version=NT%2010.0&amp;region=in&amp;language=eng&amp;currency=inr' source='431393b7-d6c4-4e6c-9d69-d6d31d824fff-attachment.txt' type='text/plain' size='185'/>
+                <attachment title='POST : https://mapi.makemytrip.com/mobile-core-api-web/api/home/config/v1?brand=mmt&amp;profile=b2c&amp;device=dt&amp;version=NT%2010.0&amp;region=in&amp;language=eng&amp;currency=inr' source='04eea684-36ad-49bf-93fa-9674c7238e1a-attachment.txt' type='text/plain' size='193'/>
+                <attachment title='POST : https://mapi.makemytrip.com/empeiria/api/v2/desktophome?brand=mmt&amp;profile=b2c&amp;device=dt&amp;version=NT%2010.0&amp;region=in&amp;language=eng&amp;currency=inr' source='2d966ebf-67f3-439c-b7d6-9265c4aeefa4-attachment.txt' type='text/plain' size='182'/>
+                <attachment title='GET : https://accounts.google.com/gsi/client' source='e833a63e-064b-4158-bed2-c3b5d75e5ef3-attachment.txt' type='text/plain' size='78'/>
+                <attachment title='GET : https://imgak.mmtcdn.com/pwa_v3/pwa_mmt_ui_assets/app-sprite.webp' source='e989d55a-1f04-461c-bf7b-881be1629937-attachment.txt' type='text/plain' size='105'/>
+                <attachment title='GET : https://accounts.google.com/gsi/style' source='1f122829-aadf-4283-86d4-bcf668fce2c1-attachment.txt' type='text/plain' size='77'/>
+                <attachment title='GET : https://accounts.google.com/gsi/status?client_id=365487944636-q943oq1rje9ugcbscagg2vre5om9maj0.apps.googleusercontent.com&amp;as=%2B8wbgg%2F0rnEbosXG%2BwoLMg' source='225af9a3-0594-4dd8-a552-05d2899a8c84-attachment.txt' type='text/plain' size='193'/>
+                <attachment title='GET : https://imgak.mmtcdn.com/pwa_v3/pwa_commons_assets/desktop/downloadMMTApp/qrCode.webp' source='ba55e76a-8309-49f0-8831-703a62deaa4b-attachment.txt' type='text/plain' size='125'/>
+                <attachment title='OPTIONS : https://pdt.makemytrip.com/dts/s/da/n/' source='b8361d7d-edc6-46e4-9253-2e3f0e8fbf26-attachment.txt' type='text/plain' size='82'/>
+                <attachment title='GET : https://promos.makemytrip.com/appfest/1x/google-play-badge.webp' source='2a09ec36-2f87-4ecd-9c1f-a20b06cb99b0-attachment.txt' type='text/plain' size='103'/>
+                <attachment title='GET : https://promos.makemytrip.com/appfest/1x/ic-homefooter-app-store.webp' source='fc41ca44-0c93-4491-81c5-d74293632828-attachment.txt' type='text/plain' size='109'/>
+                <attachment title='POST : https://pdt.makemytrip.com/dts/s/da/n/' source='c52cc8a2-7785-4346-958c-5c46eca0a7fc-attachment.txt' type='text/plain' size='79'/>
+                <attachment title='OPTIONS : https://flights-cb.makemytrip.com/api/flights-search/autosuggest?limit=10&amp;query=&amp;region=in&amp;language=eng&amp;currency=inr' source='5435be7f-aeef-4e3a-a412-b42e8a01f96b-attachment.txt' type='text/plain' size='160'/>
+                <attachment title='GET : https://flights-cb.makemytrip.com/api/flights-search/autosuggest?limit=10&amp;query=&amp;region=in&amp;language=eng&amp;currency=inr' source='b48963c8-59b9-40fa-bff6-a8e91580a4c6-attachment.txt' type='text/plain' size='156'/>
+                <attachment title='POST : https://pdt.makemytrip.com/dts/s/da/n/' source='02a2c974-8431-4d69-9def-7f1387eaeeda-attachment.txt' type='text/plain' size='79'/>
+                <attachment title='GET : https://s3.amazonaws.com/webengage-files/webengage/311c47d7/v4.js?r=27922200' source='1291a18c-15aa-4b26-b429-e2d9117d278e-attachment.txt' type='text/plain' size='116'/>
+                <attachment title='GET : https://imgak.mmtcdn.com/pwa_v3/pwa_hotel_assets/web/defaultbg.png' source='a8d52f03-e414-43db-b0c0-1cb4db0ed4cd-attachment.txt' type='text/plain' size='106'/>
+                <attachment title='GET : https://jsak.mmtcdn.com/adTech_v1.0/adScript/build/version-mmt.min.js' source='b6b3e52e-1c8b-4b8f-983a-565a5774cad0-attachment.txt' type='text/plain' size='109'/>
+                <attachment title='GET : https://www.tripmoney.com/ext/static/TravelLoan/travelLoan.png' source='90638a6f-ef99-484e-959c-49983f720ce3-attachment.txt' type='text/plain' size='102'/>
+                <attachment title='GET : https://imgak.mmtcdn.com/pwa_v3/pwa_mmt_ui_assets/in_v2.webp' source='cf85647a-f415-4c85-bcc5-85a66f2b43f9-attachment.txt' type='text/plain' size='100'/>
+                <attachment title='GET : https://metrics.makemytrip.com/b/ss/mmtprod/1/JS-2.14.0/s33088349467853?AQB=1&amp;ndh=1&amp;pf=1&amp;t=2%2F1%2F2023%2015%3A30%3A31%204%20-330&amp;mid=26811472003403144060715970487088641069&amp;aamlh=12&amp;ce=UTF-8&amp;ns=makemytrip&amp;cdp=2&amp;fpCookieDomainPeriods=2&amp;pageName=landing%3Abrand%3Ahomepage%3Aindia-MHP&amp;g=https%3A%2F%2Fwww.makemytrip.com%2F&amp;ch=MHP&amp;v1=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F109.0.0.0%20Safari%2F537.36&amp;v15=landing%3Abrand%3Ahomepage%3Aindia-MHP&amp;c24=brand&amp;v24=D%3Dc24&amp;v37=domain_sbu%3Aindia%7Cdomain_country%3Ain%7Cdomain_currency%3Ainr%7Cdomain_language%3Aeng&amp;c54=Homepage%3Astatic_card_viewed&amp;c65=ALL&amp;c66=INTL%20FLIGHTS_7776_1%7CINTL%20FLIGHTS_14272_2%7CINTL%20FLIGHTS_14350_3&amp;c67=first%3Alanding%3Aguest%3Auser%20%7C%20appd_qr_bs_shown%20%7C%20tertiary_shown%20%7C%20DThomepage_appdownloadcard_shown&amp;c69=TERTIARY_ROW_TEMPLATE_1%7CSUPER_OFFERS_TEMPLATE1_2%7CPROMOTIONS_TEMPLATE1_3%7CSTATIC_T4_4%7CAPP_DOWNLOAD_TEMPLATE1_5%7CSTATIC_T5_6%7CTOP_DESTINATION_TEMPLATE_7%7CTRIP_MONEY_TEMPLATE1_8&amp;c71=Ticker_F_1&amp;pe=lnk_o&amp;pev2=Homepage%3Astatic_card_viewed&amp;s=1280x720&amp;c=24&amp;j=1.6&amp;v=N&amp;k=Y&amp;bw=1283&amp;bh=605&amp;mcorgid=1E0D22CE527845790A490D4D%40AdobeOrg&amp;lrt=71&amp;AQE=1' source='714a5e57-b8f4-407f-a4d5-874e846de070-attachment.txt' type='text/plain' size='1276'/>
+                <attachment title='OPTIONS : https://adorch.makemytrip.com/ext/get/script/config' source='748256e6-bea1-471f-8d0a-24c14ddf8517-attachment.txt' type='text/plain' size='95'/>
+                <attachment title='GET : https://z.webengage.co/gz.js' source='0468e011-554f-4aa0-b834-bc7e33901b31-attachment.txt' type='text/plain' size='68'/>
+                <attachment title='GET : https://metrics.makemytrip.com/b/ss/mmtprod/1/JS-2.14.0/s32549911961005?AQB=1&amp;ndh=1&amp;pf=1&amp;t=2%2F1%2F2023%2015%3A30%3A31%204%20-330&amp;mid=26811472003403144060715970487088641069&amp;aamlh=12&amp;ce=UTF-8&amp;ns=makemytrip&amp;cdp=2&amp;fpCookieDomainPeriods=2&amp;pageName=landing%3Abrand%3Ahomepage%3Aindia-MHP&amp;g=https%3A%2F%2Fwww.makemytrip.com%2F&amp;v15=landing%3Abrand%3Ahomepage%3Aindia-MHP&amp;c50=top_offer_icon_seen&amp;c67=mbls_gosm_called%20%7C%20mbls_gosm_failed%20%7C%20mbls_goyl_called_persuasion&amp;pe=lnk_o&amp;pev2=batchEvent&amp;s=1280x720&amp;c=24&amp;j=1.6&amp;v=N&amp;k=Y&amp;bw=1283&amp;bh=605&amp;mcorgid=1E0D22CE527845790A490D4D%40AdobeOrg&amp;AQE=1' source='d02a5ca9-6ef8-41f4-a60d-ce988c9f0501-attachment.txt' type='text/plain' size='629'/>
+                <attachment title='GET : https://adorch.makemytrip.com/ext/get/script/config' source='efeac31c-adb5-4fc9-b491-80213cc82c19-attachment.txt' type='text/plain' size='91'/>
+                <attachment title='GET : https://jsak.mmtcdn.com/adTech_v1.0/adScript/build/adSdk-f31527fe8cedb3548a859a6a08265aa2.min.js' source='61857633-7f94-429e-aba3-9ab265f2ef16-attachment.txt' type='text/plain' size='136'/>
+                <attachment title='OPTIONS : https://adorch.makemytrip.com/ext/user/serve/ad' source='9370f306-f83b-4025-84fa-ca98347bc318-attachment.txt' type='text/plain' size='91'/>
+                <attachment title='POST : https://adorch.makemytrip.com/ext/user/serve/ad' source='6235ba09-b740-4481-90f7-cdde2be4ae90-attachment.txt' type='text/plain' size='88'/>
+                <attachment title='GET : https://servedbyadbutler.com/getad.img/?libBID=2845676' source='f2477398-9748-4bc1-9938-057979db73cf-attachment.txt' type='text/plain' size='94'/>
+                <attachment title='GET : https://mmt.servedbyadbutler.com/getad.img/;libID=3514048' source='8dd397fd-7e28-42ed-9584-c3af213290ff-attachment.txt' type='text/plain' size='97'/>
+                <attachment title='GET : https://c.webengage.com/upf.js?lp=https%3A%2F%2Fwww.makemytrip.com%2F&amp;rf=&amp;geo=y&amp;jsonp=_we_jsonp_global_cb_1675332031802' source='cf8b74cf-ef41-46e7-8015-6f782e52f286-attachment.txt' type='text/plain' size='159'/>
+                <attachment title='GET : https://wsdk-files.webengage.com/webengage/311c47d7/3k9e68a.js?r=1481512867000' source='574c1539-0866-4118-aa18-8d34f894d39b-attachment.txt' type='text/plain' size='118'/>
+                <attachment title='GET : https://wsdk-files.webengage.com/webengage/311c47d7/i2l1kjg.js?r=1494921140000' source='d4c67bc3-7d3f-4f20-a02b-f918c2567785-attachment.txt' type='text/plain' size='118'/>
+                <attachment title='GET : https://wsdk-files.webengage.com/webengage/311c47d7/i2l1l04.js?r=1542012716000' source='c3e84b40-aba4-4ded-9c19-cfd61fb48196-attachment.txt' type='text/plain' size='118'/>
+                <attachment title='GET : https://wsdk-files.webengage.com/webengage/311c47d7/i2l1kkl.js?r=1578641869000' source='9b3b7a9a-6f98-48fe-8d8f-18266bc0a191-attachment.txt' type='text/plain' size='118'/>
+                <attachment title='GET : https://wsdk-files.webengage.com/webengage/311c47d7/~f05d4ka.js?r=1557297828000' source='30c49167-dd7a-45b0-a449-24c5b4d30ec1-attachment.txt' type='text/plain' size='119'/>
+                <attachment title='GET : https://imgak.mmtcdn.com/pwa_v3/pwa_commons_assets/favicon.ico' source='3f9a0b67-371c-42b0-9491-6b953cb91f33-attachment.txt' type='text/plain' size='102'/>
+                <attachment title='GET : https://imgak.mmtcdn.com/pwa_v3/pwa_commons_assets/favicon.ico' source='204d043f-3672-44bd-baf3-929f388ad70a-attachment.txt' type='text/plain' size='102'/>
+                <attachment title='POST : https://c.webengage.com/l4.jpg' source='90d97c61-a0c3-4ddd-a32b-daff81a38205-attachment.txt' type='text/plain' size='71'/>
+                <attachment title='POST : https://c.webengage.com/l4.jpg' source='e0c71807-a3a4-438a-b70c-ea1a8f05ad75-attachment.txt' type='text/plain' size='71'/>
+                <attachment title='POST : https://c.webengage.com/l4.jpg' source='07df73de-54d4-47a6-8a9a-2d9243a982e1-attachment.txt' type='text/plain' size='71'/>
+                <attachment title='POST : https://c.webengage.com/l4.jpg' source='6a0be70b-65a9-429d-8926-05ec2aa945c2-attachment.txt' type='text/plain' size='71'/>
+            </attachments>
+        </test-case>
+        <test-case start='1675332033926' status='passed' stop='1675332034884'>
+            <name>the login page should have a header displayed</name>
+            <title>the login page should have a header displayed</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-109.0.5414.120'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f53c6b0a-164a-40a5-b8d5-7beeee7ee7b9-attachment.png' type='image/png' size='308660'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

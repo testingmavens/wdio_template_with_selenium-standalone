@@ -1,0 +1,3 @@
+URL  : https://www.tripmoney.com/ext/static/TravelLoan/travelLoan.png
+ Method : GET
+ StatusCode  : 200

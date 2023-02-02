@@ -1,0 +1,3 @@
+URL  : https://mapi.makemytrip.com/empeiria/api/v2/desktophome?brand=mmt&profile=b2c&device=dt&version=NT%2010.0&region=in&language=eng&currency=inr
+ Method : OPTIONS
+ StatusCode  : 200

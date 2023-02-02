@@ -1,3 +1,0 @@
-URL  : https://metrics.makemytrip.com/b/ss/mmtprod/1/JS-2.14.0/s28982583652329?AQB=1&ndh=1&pf=1&t=2%2F1%2F2023%2012%3A29%3A13%204%20-330&mid=02675348461620602961567668750650041358&aamlh=12&ce=UTF-8&ns=makemytrip&cdp=2&fpCookieDomainPeriods=2&pageName=landing%3Abrand%3Ahomepage%3Aindia-MHP&g=https%3A%2F%2Fwww.makemytrip.com%2F&v15=landing%3Abrand%3Ahomepage%3Aindia-MHP&v37=domain_sbu%3Aindia%7Cdomain_country%3Ain%7Cdomain_currency%3Ainr%7Cdomain_language%3Aeng&pe=lnk_o&pev2=click&s=1280x720&c=24&j=1.6&v=N&k=Y&bw=989&bh=530&mcorgid=1E0D22CE527845790A490D4D%40AdobeOrg&lrt=60&AQE=1
- Method : GET
- StatusCode  : 200

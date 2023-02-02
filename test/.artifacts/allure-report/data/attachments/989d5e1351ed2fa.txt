@@ -1,0 +1,3 @@
+URL  : https://promos.makemytrip.com/appfest/1x/google-play-badge.webp
+ Method : GET
+ StatusCode  : 200

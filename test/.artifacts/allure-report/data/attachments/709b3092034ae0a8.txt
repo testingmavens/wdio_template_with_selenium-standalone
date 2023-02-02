@@ -1,0 +1,3 @@
+URL  : https://imgak.mmtcdn.com/pwa_v3/pwa_mmt_ui_assets/app-sprite.webp
+ Method : GET
+ StatusCode  : 200

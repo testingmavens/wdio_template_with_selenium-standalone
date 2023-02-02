@@ -1,0 +1,3 @@
+URL  : https://promos.makemytrip.com/appfest/1x/ic-homefooter-app-store.webp
+ Method : GET
+ StatusCode  : 200

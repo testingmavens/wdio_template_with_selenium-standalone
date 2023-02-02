@@ -1,0 +1,3 @@
+URL  : https://flights-cb.makemytrip.com/api/flights-search/autosuggest?limit=10&query=&region=in&language=eng&currency=inr
+ Method : OPTIONS
+ StatusCode  : 200
