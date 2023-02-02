@@ -25,13 +25,13 @@ jobs:
     - run: npm run build --if-present
     - run: npm wdio
     - name: Install allure commandline
-      if: sucess() || failure()
+      if: success() || failure()
       run: npm i -g allure-commandline
     - name: Combine Allure
-      if: sucess() || failure()
+      if: success() || failure()
       run: npm run allureCombine
     - name: Upload test report
-      if: sucess() || failure()
+      if: success() || failure()
       uses: actions/upload-artifact@v2
       with:
           name: Allure report
