@@ -4,8 +4,6 @@ on:
   workflow_dispatch:
   push:
     branches: [ "master" ]
-
-
 jobs:
   build:
     name: Allure Report-Standalone-service
@@ -15,8 +13,6 @@ jobs:
     strategy:
       matrix:
         node-version: [18.13.0]
-       
-
     steps:
     - uses: actions/checkout@v2
     - name: Use Node.js ${{ matrix.node-version }}
@@ -32,8 +28,7 @@ jobs:
       continue-on-error: true
       with:
           ref: gh-pages
-          path: gh-pages
-          
+          path: gh-pages      
     - name: Install Dependencies
       run: npm install
 
@@ -50,10 +45,6 @@ jobs:
          #allure_report: allure-report
          allure_history: allure-history
          keep_reports: 20
-
-
-
-
     - name: Deploy report to Github Pages
       if: always()
       uses: peaceiris/actions-gh-pages@v2
@@ -61,3 +52,12 @@ jobs:
        PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
        PUBLISH_BRANCH: gh-pages
        PUBLISH_DIR: test\.artifacts\allure-report
+    - name: Post the link to the report
+      if: always()
+      uses: Sibz/github-status-action@v1
+      with: 
+          authToken: ${{secrets.GITHUB_TOKEN}}
+          context: 'Test report'
+          state: 'success'
+          sha: ${{ github.event.pull_request.head.sha }}
+          target_url: simple-elf.github.io/github-test\.artifacts\allure-report/${{ github.run_number }}
