@@ -1,0 +1,60 @@
+name: Node.js CI
+
+on:
+  push:
+    branches: [ "master" ]
+
+
+jobs:
+  build:
+    name: Allure Report-Standalone-service
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [18.13.0]
+       
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'npm'
+    - run: npm ci
+    - run: npm run build --if-present
+    - name: Get Allure history
+      uses: actions/checkout@v2
+      if: always()
+      continue-on-error: true
+      with:
+          ref: gh-pages
+          path: gh-pages
+          
+    - name: Install Dependencies
+      run: npm install
+
+    - name: Executing the Test Scripts
+      run: npm run wdio 
+    - name: Test marketplace action
+      uses: simple-elf/allure-report-action@master
+      if: always()
+      id: allure-report
+      with:
+         allure_results: build/allure-results
+         gh_pages: gh-pages
+         allure_report: allure-report
+         allure_history: allure-history
+
+
+
+
+    - name: Deploy report to Github Pages
+      if: always()
+      uses: peaceiris/actions-gh-pages@v2
+      env:
+       PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+       PUBLISH_BRANCH: gh-pages
+       PUBLISH_DIR: allure-history
