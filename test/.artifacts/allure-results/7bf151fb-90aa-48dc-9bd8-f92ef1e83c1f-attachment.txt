@@ -1,0 +1,3 @@
+URL  : https://www.testingmavens.com/wp-content/plugins/duracelltomi-google-tag-manager/js/analytics-talk-content-tracking.js?ver=1.16.2
+ Method : GET
+ StatusCode  : 200

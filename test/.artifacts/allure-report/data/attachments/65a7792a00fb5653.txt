@@ -1,0 +1,3 @@
+URL  : https://www.testingmavens.com/wp-content/uploads/2022/01/Publishing-1.png
+ Method : GET
+ StatusCode  : 200

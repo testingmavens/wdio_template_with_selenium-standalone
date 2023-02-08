@@ -1,0 +1,3 @@
+URL  : https://www.testingmavens.com/wp-content/uploads/2022/05/API_Postman-600x600.jpeg
+ Method : GET
+ StatusCode  : 200

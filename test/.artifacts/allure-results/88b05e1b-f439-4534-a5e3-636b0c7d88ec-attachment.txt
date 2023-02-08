@@ -1,0 +1,3 @@
+URL  : https://www.testingmavens.com/wp-content/uploads/2023/01/Sukrutha-Unni.jpg
+ Method : GET
+ StatusCode  : 200

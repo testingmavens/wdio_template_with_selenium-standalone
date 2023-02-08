@@ -1,0 +1,3 @@
+URL  : https://www.testingmavens.com/wp-content/plugins/enlighter/cache/enlighterjs.min.js?ver=NScQ8fBPHzTizvb
+ Method : GET
+ StatusCode  : 200

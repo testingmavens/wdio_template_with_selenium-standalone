@@ -1,3 +1,0 @@
-URL  : https://imgak.mmtcdn.com/pwa_v3/pwa_commons_assets/desktop/landingSprite@22x.webp
- Method : GET
- StatusCode  : 200

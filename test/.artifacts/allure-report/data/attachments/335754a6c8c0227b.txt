@@ -1,0 +1,3 @@
+URL  : https://www.testingmavens.com/wp-content/uploads/2021/12/14171_Testing-Mavens_Hero-Images_Homepage-Slide-4-scaled.jpg
+ Method : GET
+ StatusCode  : 200

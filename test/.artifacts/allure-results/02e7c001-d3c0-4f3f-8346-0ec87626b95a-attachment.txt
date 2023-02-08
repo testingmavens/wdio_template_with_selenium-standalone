@@ -1,0 +1,3 @@
+URL  : https://www.testingmavens.com/wp-content/uploads/2022/11/S-Ananda-Krishnan.jpg
+ Method : GET
+ StatusCode  : 200

@@ -1,0 +1,3 @@
+URL  : https://www.testingmavens.com/wp-content/uploads/2022/06/Akhil-Krishnan.jpeg
+ Method : GET
+ StatusCode  : 200

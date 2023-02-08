@@ -1,0 +1,3 @@
+URL  : https://www.testingmavens.com/wp-content/uploads/2021/12/CapitalRx_Logo.svg
+ Method : GET
+ StatusCode  : 200

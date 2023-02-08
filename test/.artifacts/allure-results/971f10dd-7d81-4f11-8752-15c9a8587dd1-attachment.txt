@@ -1,0 +1,3 @@
+URL  : https://www.testingmavens.com/wp-content/plugins/footer-putter/styles/footer-credits.css?ver=1.17
+ Method : GET
+ StatusCode  : 200

@@ -1,0 +1,3 @@
+URL  : https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.1.1
+ Method : GET
+ StatusCode  : 200

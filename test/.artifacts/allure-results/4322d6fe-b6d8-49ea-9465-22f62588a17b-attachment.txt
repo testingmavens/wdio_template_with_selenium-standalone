@@ -1,0 +1,3 @@
+URL  : https://www.testingmavens.com/wp-content/themes/testingmavenapp/app/css/aos.css?ver=1.0.0
+ Method : GET
+ StatusCode  : 200
