@@ -3,6 +3,7 @@
     "@wdio/cli": "^8.3.2",
     "allure-commandline": "^2.20.1",
     "allure-single-html-file-js": "^0.0.3",
+    "chromedriver": "^109.0.0",
     "log-to-file": "^3.0.0"
   },
   "devDependencies": {

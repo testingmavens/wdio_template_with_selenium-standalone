@@ -53,22 +53,22 @@ exports.config = {
   // Sauce Labs platform configurator - a great tool to configure your capabilities:
   // https://saucelabs.com/platform/platform-configurator
   //
-  capabilities: [
-    {
-      // maxInstances can get overwritten per capability. So if you have an in-house Selenium
-      // grid with only 5 firefox instances available you can make sure that not more than
-      // 5 instances get started at a time.
-      'maxInstances': 5,
-      //
-      'browserName': "MicrosoftEdge",
-      'acceptInsecureCerts': true,
-      'goog:chromeOptions' : {
-args:[
-  '--window-size=1920,1080',
-  '--incognito',
-  '--headless',
-],}
+
+    capabilities: [
+      {
+        'maxInstances': 5,
+        'browserName': "MicrosoftEdge",
+        'acceptInsecureCerts': true,
+        'goog:chromeOptions' : {
+  args:[
+    '--window-size=1920,1080',
+    '--incognito',
+    '--headless',
+  ],
+  
+        }
       },
+  
 //       {
 //         // maxInstances can get overwritten per capability. So if you have an in-house Selenium
 //         // grid with only 5 firefox instances available you can make sure that not more than
@@ -93,7 +93,7 @@ args:[
   // Define all options that are relevant for the WebdriverIO instance here
   //
   // Level of logging verbosity: trace | debug | info | warn | error | silent
-  logLevel: "trace",
+  logLevel: "silent",
   //
   // Set specific log levels per logger
   // loggers:
