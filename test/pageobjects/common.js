@@ -1,7 +1,7 @@
 module.exports = class Common {
   constructor()
   {
-this.$homePageHeader = () => $(`//div[@class='whiteText makeFlex perfectCenter langSlct']`);
+this.$homePageHeader = () => $(`//a[text()="Our services"]`);
 this.$logo = () => $(`//a[text()="Our services"]`)
   }
   async openUrl()
