@@ -1,3 +1,0 @@
-URL  : https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j99&tid=UA-66977106-1&cid=733516984.1675855856&jid=917031396&gjid=383047200&_gid=1879979029.1675855856&_u=YEBAAEAAAAAAACAAI~&z=463756151
- Method : POST
- StatusCode  : 200
