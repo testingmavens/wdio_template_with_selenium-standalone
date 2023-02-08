@@ -1,0 +1,184 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1675853200113' stop='1675853229602'>
+    <name>Work flow for Make my trip</name>
+    <title>Work flow for Make my trip</title>
+    <test-cases>
+        <test-case start='1675853200115' status='passed' stop='1675853227395'>
+            <name>User should be able to load url</name>
+            <title>User should be able to load url</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='msedge-109.0.1518.78'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='7fed7b14-8d0f-4b18-9313-1507879a0c63-attachment.png' type='image/png' size='1185182'/>
+                <attachment title='GET : https://www.testingmavens.com/' source='48575ceb-33f1-4b92-aeca-2528e1ec5934-attachment.txt' type='text/plain' size='70'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-includes/css/classic-themes.min.css?ver=1' source='37a88a41-55e3-4d23-8711-29a2c8e08fbc-attachment.txt' type='text/plain' size='114'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/themes/testingmavenapp/style.css?ver=1.0.0' source='632eba12-74f0-4cee-b977-8c47495acb84-attachment.txt' type='text/plain' size='123'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/plugins/duracelltomi-google-tag-manager/js/analytics-talk-content-tracking.js?ver=1.16.2' source='f2b2b165-45c8-4da6-94c2-e0213ed39d91-attachment.txt' type='text/plain' size='169'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/themes/testingmavenapp/app/css/aos.css?ver=1.0.0' source='d2d1188e-9aeb-42f1-900e-f0a40a93ff5b-attachment.txt' type='text/plain' size='129'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/themes/testingmavenapp/app/css/style.css?ver=6.1.1' source='68fee9e4-b965-4f63-b15c-5d1185ae9d1e-attachment.txt' type='text/plain' size='131'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1' source='bbeb5eec-1236-4010-9455-455a4c91bb96-attachment.txt' type='text/plain' size='128'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/plugins/footer-putter/styles/footer-credits.css?ver=1.17' source='c4522926-b29d-4c28-8266-244d42a71afc-attachment.txt' type='text/plain' size='137'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.3' source='399670b8-e96d-4e35-8fea-40649fbf7777-attachment.txt' type='text/plain' size='137'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/plugins/enlighter/cache/enlighterjs.min.css?ver=NScQ8fBPHzTizvb' source='31e444ed-aa1a-45da-84f4-013f418f050e-attachment.txt' type='text/plain' size='144'/>
+                <attachment title='GET : https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css?ver=6.1.1' source='6e38f35a-7c44-4cdd-88b5-a5af105bd66f-attachment.txt' type='text/plain' size='115'/>
+                <attachment title='GET : https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js?ver=6.1.1' source='02dfb493-b23d-4fbc-877b-2ac75c06c975-attachment.txt' type='text/plain' size='114'/>
+                <attachment title='GET : https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.1.1' source='488fdd6d-c0a7-444e-b490-71ed81617d11-attachment.txt' type='text/plain' size='132'/>
+                <attachment title='GET : https://www.testingmavens.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js' source='1c9adc16-dc2c-44c5-a060-c8915cd181c4-attachment.txt' type='text/plain' size='132'/>
+                <attachment title='GET : https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js?ver=1.0.0' source='2b8222e3-e6ad-4734-9924-60cdf1b35d3e-attachment.txt' type='text/plain' size='122'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.3' source='b0b1718b-d06e-4ce8-925c-22cbd051bc92-attachment.txt' type='text/plain' size='138'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.3' source='bfb96009-c7f1-474c-b3d6-3c7583341903-attachment.txt' type='text/plain' size='134'/>
+                <attachment title='GET : https://www.google.com/recaptcha/api.js?render=6Lch5oUUAAAAABuKdjdLwr43hDHlwaU6IUe72ulE&amp;ver=3.0' source='b6429f91-410c-4691-9e68-71a8496a8ada-attachment.txt' type='text/plain' size='135'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/themes/testingmavenapp/js/aos.js?ver=1.0.0' source='70d92974-befa-4ee3-982c-7c348bc71428-attachment.txt' type='text/plain' size='123'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/themes/testingmavenapp/js/navigation.js?ver=1.0.0' source='f5507ecf-f75d-45cc-9dac-4844f79b01fd-attachment.txt' type='text/plain' size='130'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/themes/testingmavenapp/js/main.js?ver=1.0.0' source='bec921dd-2d33-44e5-9756-49710726fbae-attachment.txt' type='text/plain' size='124'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/themes/testingmavenapp/js/custom.js?ver=1.0.0' source='a6e03530-e9f3-41a0-a70a-7e509912c580-attachment.txt' type='text/plain' size='126'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' source='6650ad78-d640-4421-a5f5-4d4774002e3b-attachment.txt' type='text/plain' size='134'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.7.3' source='100c635f-3cb9-4572-b5df-04347125fbf8-attachment.txt' type='text/plain' size='140'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' source='b9b52050-4d80-418c-982b-ca33558c1b36-attachment.txt' type='text/plain' size='126'/>
+                <attachment title='GET : https://www.googletagmanager.com/gtm.js?id=GTM-549Q6DV' source='e4651854-8631-4cae-a4d7-5c1a382297db-attachment.txt' type='text/plain' size='94'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/plugins/enlighter/cache/enlighterjs.min.js?ver=NScQ8fBPHzTizvb' source='bb739b27-50c7-4899-81c0-b8dc37acb607-attachment.txt' type='text/plain' size='143'/>
+                <attachment title='GET : https://www.gstatic.com/recaptcha/releases/gEr-ODersURoIfof1hiDm7R5/recaptcha__en.js' source='a026a4e7-aa1f-42b4-b3e3-07d47e096c11-attachment.txt' type='text/plain' size='124'/>
+                <attachment title='GET : https://www.google-analytics.com/analytics.js' source='200ca6eb-1792-4930-9d8b-72b6859f5df5-attachment.txt' type='text/plain' size='85'/>
+                <attachment title='GET : https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0' source='c28373fe-80e3-46ab-b9b6-8df87bad1e09-attachment.txt' type='text/plain' size='137'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Meera-M-Bastian.jpg' source='ba90aae9-65be-4aa8-83ed-5c62911b12ce-attachment.txt' type='text/plain' size='116'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/header.svg' source='03f145ef-03b2-4452-a626-735325d8036e-attachment.txt' type='text/plain' size='107'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/14171_Testing-Mavens_Hero-Images_Homepage-Slide-1-scaled.jpg' source='8686f291-042e-4a2f-91af-1c77f1906746-attachment.txt' type='text/plain' size='157'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/14171_Testing-Mavens_Hero-Images_Homepage-Slide-2-scaled.jpg' source='08a43eca-85ed-4bca-a9db-b3957760d6a4-attachment.txt' type='text/plain' size='157'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/14171_Testing-Mavens_Hero-Images_Homepage-Slide-3-scaled.jpg' source='f1358d99-9a9d-4059-afa0-a2ccc807a719-attachment.txt' type='text/plain' size='157'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/14171_Testing-Mavens_Hero-Images_Homepage-Slide-4-scaled.jpg' source='f43062e0-2400-46ea-be42-7eb150d2d922-attachment.txt' type='text/plain' size='157'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/zapari.svg' source='53bc3b89-5cc7-4d46-b31e-e5daf0d4a5c8-attachment.txt' type='text/plain' size='107'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/KPMG_logo.svg' source='17f6a875-15e1-40e7-8e03-6ee0a65edc64-attachment.txt' type='text/plain' size='110'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/equin.svg' source='db829087-52a8-4f4e-a9e7-aee2fe89d3cb-attachment.txt' type='text/plain' size='106'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/CapitalRx_Logo.svg' source='055c5720-4614-4e6f-9f17-e4bfafbecc0b-attachment.txt' type='text/plain' size='115'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/healthline_logo.svg' source='d0f90d47-f4be-4e27-8d7b-4225227b18d2-attachment.txt' type='text/plain' size='116'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/ta.svg' source='bdf06c5c-2d08-40c5-a6d6-0fe466ba3582-attachment.txt' type='text/plain' size='103'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2022/09/Ralph_Lauren.svg' source='4a790c45-dabb-4506-a4ed-d7bfcde5622a-attachment.txt' type='text/plain' size='113'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2022/09/GrowingStars.svg' source='d0af3229-674e-44d3-a918-0859b368619a-attachment.txt' type='text/plain' size='113'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2022/09/EDWISE-GROUP.svg' source='d5a876d1-25a9-4e1a-b5ea-ffb55c65e7ac-attachment.txt' type='text/plain' size='113'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/End-to-end_functional_testing.png' source='ecd4dbe3-e8e3-413d-9c61-36d3bf0079eb-attachment.txt' type='text/plain' size='130'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/icons-24.png' source='26e81be0-06eb-44ed-a63c-8fcb06cea014-attachment.txt' type='text/plain' size='109'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/mounika.jpg' source='a415d26d-fa33-4b51-8ade-7c302d8bd30f-attachment.txt' type='text/plain' size='108'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Muhamed-Rafiyudin.jpg' source='52a9dca2-53fe-470f-81ac-dd33c5aa71f8-attachment.txt' type='text/plain' size='118'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Natalie.jpg' source='d0d26a63-3ed7-4c9b-882f-5cbf5353f281-attachment.txt' type='text/plain' size='108'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Nitin-P.jpg' source='1b9993d8-084b-4c93-a11c-a07a80f59423-attachment.txt' type='text/plain' size='108'/>
+                <attachment title='POST : https://www.google-analytics.com/j/collect?v=1&amp;_v=j99&amp;a=478612486&amp;t=pageview&amp;_s=1&amp;dl=https%3A%2F%2Fwww.testingmavens.com%2F&amp;ul=en-us&amp;de=UTF-8&amp;dt=Home%20-%20Testing%20Mavens%20-%20Software%20Testing%20Redefined&amp;sd=24-bit&amp;sr=1280x720&amp;vp=975x530&amp;je=0&amp;_u=YEBAAEABAAAAACAAI~&amp;jid=406082505&amp;gjid=2105760241&amp;cid=2070764246.1675853206&amp;tid=UA-66977106-1&amp;_gid=1692140783.1675853206&amp;_r=1&amp;_slc=1&amp;gtm=45He3260n81549Q6DV&amp;z=1525617906' source='0a63ad79-b6eb-4953-b946-ac0509d24bfe-attachment.txt' type='text/plain' size='459'/>
+                <attachment title='GET : https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6Lch5oUUAAAAABuKdjdLwr43hDHlwaU6IUe72ulE&amp;co=aHR0cHM6Ly93d3cudGVzdGluZ21hdmVucy5jb206NDQz&amp;hl=en&amp;v=gEr-ODersURoIfof1hiDm7R5&amp;size=invisible&amp;cb=5l7fc03pxi56' source='322cdc8c-3b9a-4732-97e0-033931ad5001-attachment.txt' type='text/plain' size='244'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/olha.jpg' source='4ab517ef-19e1-4c25-ad68-64c8b33172a2-attachment.txt' type='text/plain' size='105'/>
+                <attachment title='POST : https://stats.g.doubleclick.net/j/collect?t=dc&amp;aip=1&amp;_r=3&amp;v=1&amp;_v=j99&amp;tid=UA-66977106-1&amp;cid=2070764246.1675853206&amp;jid=406082505&amp;gjid=2105760241&amp;_gid=1692140783.1675853206&amp;_u=YEBAAEAAAAAAACAAI~&amp;z=739467155' source='4d4e6000-c849-4d5b-8152-e6776185c5f3-attachment.txt' type='text/plain' size='244'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Rahul-Babu.jpg' source='e9f0d407-68f0-4f63-a5b6-c4d8d5d0002e-attachment.txt' type='text/plain' size='111'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Revathy-Sathyen.jpg' source='bd787172-3de5-40a6-b3c7-4e8becb990ad-attachment.txt' type='text/plain' size='116'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Sachin-V-Suresh.jpg' source='565abba1-5f49-444f-893e-9410a39f38b3-attachment.txt' type='text/plain' size='116'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Sajo-Samuel.jpg' source='8c79dc35-5457-40ee-8436-764ffb8c2d11-attachment.txt' type='text/plain' size='112'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Sanath-Murali.jpg' source='a89cc429-31c4-4640-ae3f-7caba905d235-attachment.txt' type='text/plain' size='114'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Mobile_Testing.png' source='dacdf218-ce48-4e47-8439-8dcc346079da-attachment.txt' type='text/plain' size='115'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2022/06/Sarath-Raj.jpeg' source='fae88e3a-9553-4d9f-ae42-7d4d5fa47151-attachment.txt' type='text/plain' size='112'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Non-functional_testing.png' source='8f762387-59a9-44b0-89c7-07ca9c5285cc-attachment.txt' type='text/plain' size='123'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Test_advisory__consulting.png' source='2df50b4d-df91-479b-a0b8-5c9f45b7f703-attachment.txt' type='text/plain' size='126'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Data_validation_v.2.png' source='d8a8f267-0595-47a3-ab5f-33dad29895e5-attachment.txt' type='text/plain' size='120'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/themes/testingmavenapp/app/images/Open_Quotation_Marks-47.png' source='a3d34647-be69-4917-b1b3-39519aae0957-attachment.txt' type='text/plain' size='142'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Sandeep.jpg' source='0275252a-604c-48d4-8fcc-a7eef996c5e6-attachment.txt' type='text/plain' size='108'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Sandra-Satheesh.jpg' source='c180418f-1bbe-4774-a27c-14c75d61c152-attachment.txt' type='text/plain' size='116'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Seby-Santhosh.jpg' source='faa9a474-f26a-4ac7-beaf-1361e7e53b0c-attachment.txt' type='text/plain' size='114'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Sethulakshmi-S.jpg' source='74a85de2-d122-4a26-97e6-586c830cf809-attachment.txt' type='text/plain' size='115'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2022/02/Swapna.jpg' source='3941ab8f-88c4-4475-a8d3-c56b195e7d17-attachment.txt' type='text/plain' size='107'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Soumya-Menon.jpg' source='2e921e73-48b3-4d34-bf82-2023a68119d0-attachment.txt' type='text/plain' size='113'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Vinayan-K.jpg' source='5ab92411-5eb4-4305-a95d-8e03d07d92c5-attachment.txt' type='text/plain' size='110'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Vincent.jpg' source='56869fd4-14e0-47e6-adbc-8eda2fb85ed4-attachment.txt' type='text/plain' size='108'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Vishnu-Prasad.jpg' source='efc6af7b-80aa-4c50-a4ee-745c029c4cbd-attachment.txt' type='text/plain' size='114'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Vishnu-Somanathakurup.jpg' source='92a8d72e-434c-45f5-8666-077076318c5e-attachment.txt' type='text/plain' size='122'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Vishnupriya.jpg' source='aaba5e10-fe34-4b36-861b-ec66bc5aa66f-attachment.txt' type='text/plain' size='112'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Yadu-Krishnan.jpg' source='8bf0f6a4-0015-4d75-93e3-ed2e1b159dfa-attachment.txt' type='text/plain' size='114'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Yojana.jpg' source='89ecd548-d5aa-4d72-ad08-8b15a38536fc-attachment.txt' type='text/plain' size='107'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Health_Insurance-1.png' source='177387a1-ce4b-4dcc-9c24-7fa86f524ecd-attachment.txt' type='text/plain' size='119'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Tax_and_advisory.png' source='76638b67-f918-480a-ab51-303cc539f7cf-attachment.txt' type='text/plain' size='117'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2022/11/Alen-Joseph.jpg' source='5bbcc71d-b698-4ec9-a6cb-29e7deb4c839-attachment.txt' type='text/plain' size='112'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2022/11/Arun-Jose.jpg' source='ddf624c8-804f-45f7-9d65-79235a25419a-attachment.txt' type='text/plain' size='110'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/AdTech-1.png' source='007cbd3c-9534-400b-895d-b265559a5936-attachment.txt' type='text/plain' size='109'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2022/01/Publishing-1.png' source='63afc1b3-b17a-4e60-9d48-c867108afd80-attachment.txt' type='text/plain' size='113'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Healthcare__Pharmacy.png' source='13544004-bb38-44c5-ae2f-24acfca3221e-attachment.txt' type='text/plain' size='121'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/E-Commerce.png' source='b6c7bb40-9236-41cd-b6e8-54b1f4fc14d6-attachment.txt' type='text/plain' size='111'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Supply_Chain-1.png' source='bb73c8e0-f7aa-41b5-97ff-ec37df16171d-attachment.txt' type='text/plain' size='115'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Fitness.png' source='2f2f8616-1ae8-43ff-81e1-ec289d1655bb-attachment.txt' type='text/plain' size='108'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2022/02/jayanjoseph_whitebg-e1644963358210.png' source='4a6b18dc-ba7e-4839-9e0d-0bb71e915787-attachment.txt' type='text/plain' size='135'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/themes/testingmavenapp/app/images/linkden.png' source='ea7e2ccd-f888-41dd-9e69-89eadad74323-attachment.txt' type='text/plain' size='126'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2022/02/feby-1.png' source='bd05479c-b82f-426d-87c6-d30f21957898-attachment.txt' type='text/plain' size='107'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2022/11/Athira-A.jpg' source='d3aa0e56-a97b-4358-9a86-f61833bce5b7-attachment.txt' type='text/plain' size='109'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2022/11/Gowri-K.jpg' source='ba1d41f3-c844-4b69-9773-44e3216206af-attachment.txt' type='text/plain' size='108'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2022/11/Jeswin-George.jpg' source='89cee0b2-d0ae-445b-b868-9eb2e6dea6c3-attachment.txt' type='text/plain' size='114'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2022/11/Neethu-Jose.jpg' source='970c98e1-180c-4326-a379-c8a0ac7d0282-attachment.txt' type='text/plain' size='112'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2022/11/Prashanth-G-C.jpg' source='c10f08db-d5c0-4bff-9764-6f5bbfe6e942-attachment.txt' type='text/plain' size='114'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2022/11/Tomcy-Sebastian.jpg' source='b6f6c0b8-626d-45f1-86ba-2754be286ee5-attachment.txt' type='text/plain' size='116'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2022/11/Unni-Krishnan-C.G.jpg' source='46fe1fdb-54d9-4e65-b72a-63c5a2c7138f-attachment.txt' type='text/plain' size='118'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2022/11/Elizabeth-Reji.jpg' source='46f27daa-e0c3-47f2-b4f5-5dfd6456cb4d-attachment.txt' type='text/plain' size='115'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Adarsh-Aravind.jpg' source='65da910a-080a-4085-a5e5-34910458aaae-attachment.txt' type='text/plain' size='115'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Amar.jpg' source='fc644e78-3a49-429b-bc81-84beae6ad73e-attachment.txt' type='text/plain' size='105'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2022/11/S-Ananda-Krishnan.jpg' source='3d010e90-f148-423a-9b64-f261e3294d81-attachment.txt' type='text/plain' size='118'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2022/11/Sajith-Bhaskar.jpg' source='735d2bf3-7476-46b1-9286-06d89ed868d0-attachment.txt' type='text/plain' size='115'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2023/01/Lijina-P.jpg' source='3de08747-af00-41d4-ab0d-a1c3ee9a20aa-attachment.txt' type='text/plain' size='109'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Akhil-Niravathu.jpg' source='d3659463-2871-43c7-87a8-a2cb54554872-attachment.txt' type='text/plain' size='116'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2022/06/Chithralekha-Sasi.jpeg' source='cdee4061-0143-46c7-adf5-95c8b03e77cc-attachment.txt' type='text/plain' size='119'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Arundev-Nair.jpg' source='f5b2cf35-5ed6-491c-be94-950dbc309595-attachment.txt' type='text/plain' size='113'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2022/06/Akhil-Krishnan.jpeg' source='75b8a208-2c37-4e22-9209-34b79104ac3e-attachment.txt' type='text/plain' size='116'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2023/01/Miriam-Shaji.jpg' source='ce1c59be-32be-4de3-9e9a-87ae63dc0b50-attachment.txt' type='text/plain' size='113'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2023/01/Preetam-Ghogare.jpg' source='678f5d1f-2f7e-4cef-9b4b-62d481fc1e74-attachment.txt' type='text/plain' size='116'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Arvindh-Ravichandran.jpg' source='1f0edbbe-ff0b-4cb5-be52-9ffa847f0dab-attachment.txt' type='text/plain' size='121'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Arya-R-Nath.jpg' source='fbd978e3-a4c7-4c1f-9b20-7f71d88bb4ee-attachment.txt' type='text/plain' size='112'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Clinton-Madhu.jpg' source='cf416433-9749-4645-9269-cd08cbd99377-attachment.txt' type='text/plain' size='114'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Augustine-Joseph.jpg' source='8bba18e3-e1bd-4695-87a8-f242e2bfa866-attachment.txt' type='text/plain' size='117'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Aswin-Chembath.jpg' source='d2804b5b-bd6d-4b83-9a0c-1e430a23e500-attachment.txt' type='text/plain' size='115'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Bhawesh-Jha.jpg' source='27090587-07ae-4668-99ee-938a24d883ee-attachment.txt' type='text/plain' size='112'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Gayathri.jpg' source='f72fbd5b-cdc5-4d89-b3c0-21a3a5b9da2f-attachment.txt' type='text/plain' size='109'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Hemakumari-V.jpg' source='c6c8591a-9be9-4197-ac11-6758c8d02780-attachment.txt' type='text/plain' size='113'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2022/02/Hima-M-Thampy.jpg' source='7308fef7-60c9-4cbf-8cb0-b43d63e41b8c-attachment.txt' type='text/plain' size='114'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Jissymol-Francis.jpg' source='0d84114e-3a60-4b6b-af23-86e1aff661f0-attachment.txt' type='text/plain' size='117'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Karthick-krishna.jpg' source='81f3366d-6be8-4ea3-a08b-7acb98e9d7b9-attachment.txt' type='text/plain' size='117'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Kunj-Vegada.jpg' source='284a2c00-d8cf-4c7a-9605-6eec66c804d0-attachment.txt' type='text/plain' size='112'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Mahesh-Kumar.jpg' source='cf3147f3-42de-4986-a20d-431f9bdadca8-attachment.txt' type='text/plain' size='113'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2022/02/Matt-Guthrie.jpeg' source='63b6fef0-28c0-469c-84fd-a1c363ec9095-attachment.txt' type='text/plain' size='114'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/Mamta-Joshi.jpg' source='40021f76-337a-45b0-9ed6-d205460a7289-attachment.txt' type='text/plain' size='112'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2023/01/Amal-Xaviour.jpg' source='c29d9d4c-d83b-4868-8fca-10e04c377817-attachment.txt' type='text/plain' size='113'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2023/01/Anagha-K-V.jpg' source='32cc476e-3ca9-4d49-8fed-cfc8aa27c7b3-attachment.txt' type='text/plain' size='111'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2023/01/Negitta-Nixon-Karakkunnel.jpg' source='fd7acbeb-6f44-4baf-8d91-9282c7389092-attachment.txt' type='text/plain' size='126'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2023/01/Aswathy-M.jpg' source='6516a724-988f-46ca-afdf-dcca4a95830b-attachment.txt' type='text/plain' size='110'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2023/01/Nayana-Sajeev.jpg' source='02202924-1d9d-4c8c-b942-58bc0fad18d2-attachment.txt' type='text/plain' size='114'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2023/01/Sukrutha-Unni.jpg' source='b169336c-fae8-409c-aa47-0bf2bd60bdf4-attachment.txt' type='text/plain' size='114'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2022/02/healthinsurance-300x200.jpg' source='350fc9fa-acce-4122-a9b9-c6f67b2d3fad-attachment.txt' type='text/plain' size='124'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2022/01/CompassMongoDB_Blog-600x600.jpeg' source='68036c59-2469-4b18-819e-2ab6984e066f-attachment.txt' type='text/plain' size='129'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2022/03/gitlab_maven-600x600.jpeg' source='9b986550-b8e7-4bbf-9853-02024aec551f-attachment.txt' type='text/plain' size='122'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2022/12/LinkedIn-1-scaled-1-600x338.jpg' source='dc025989-8a45-428c-9555-d3466939b658-attachment.txt' type='text/plain' size='128'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2022/05/API_Postman-600x600.jpeg' source='2d26b784-0ada-4ee5-8e36-fcbed6737286-attachment.txt' type='text/plain' size='121'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/footer.svg' source='c9ab063e-acd8-4a13-8c82-c9f9f1f19838-attachment.txt' type='text/plain' size='107'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-includes/js/wp-emoji-release.min.js?ver=6.1.1' source='3d9b31fc-f464-4446-8954-db42795b3904-attachment.txt' type='text/plain' size='118'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/themes/testingmavenapp/app/css/fonts/WorkSans-Regular.woff2' source='e3319be1-a1df-4e11-ad4d-6fd4d7c7850b-attachment.txt' type='text/plain' size='140'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/themes/testingmavenapp/app/css/fonts/WorkSans-Medium.woff2' source='f7b0f0cf-7591-45d3-8737-e6183a707fc9-attachment.txt' type='text/plain' size='139'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/themes/testingmavenapp/app/css/fonts/WorkSans-Bold.woff2' source='72c50f6a-f800-4e61-9e73-4a9a1609a383-attachment.txt' type='text/plain' size='137'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-json/contact-form-7/v1/contact-forms/250/feedback/schema' source='0f77e41b-c67b-494c-976f-fc8a4c179128-attachment.txt' type='text/plain' size='129'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/themes/testingmavenapp/app/css/fonts/WorkSans-Light.woff2' source='1bb83ace-3f51-40a0-888f-5054b2e24a29-attachment.txt' type='text/plain' size='138'/>
+                <attachment title='GET : https://www.testingmavens.com/wp-content/uploads/2021/12/cropped-Header-32x32.png' source='818bcf5f-d3b5-44b8-b888-17213666dfaa-attachment.txt' type='text/plain' size='121'/>
+            </attachments>
+        </test-case>
+        <test-case start='1675853227402' status='passed' stop='1675853229598'>
+            <name>the login page should have a header displayed</name>
+            <title>the login page should have a header displayed</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='msedge-109.0.1518.78'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='486bb859-df80-406a-bcb8-8b132c8d08d9-attachment.png' type='image/png' size='1185066'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
