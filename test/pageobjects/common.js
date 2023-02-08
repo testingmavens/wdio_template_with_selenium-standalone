@@ -2,7 +2,6 @@ module.exports = class Common {
   constructor()
   {
 this.$homePageHeader = () => $(`//a[text()="Our services"]`);
-this.$logo = () => $(`//a[text()="Our services"]`)
   }
   async openUrl()
   {

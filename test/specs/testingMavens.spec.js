@@ -1,6 +1,4 @@
 const { homePage } = require("../pageobjects/home_page"); //Importing Homepage object
-const { flightsPage } = require("../pageobjects/flightsPage");//Importing Flights page object
-const { completeBookingPage } = require("../pageobjects/completeBookPage");
 
 describe('Work flow for Make my trip', () => {
 	it('User should be able to load url', async () => {
