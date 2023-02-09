@@ -57,7 +57,7 @@ exports.config = {
     capabilities: [
       {
         'maxInstances': 5,
-        'browserName': "MicrosoftEdge",
+        'browserName': "chrome",
         'acceptInsecureCerts': true,
         'goog:chromeOptions' : {
   args:[
