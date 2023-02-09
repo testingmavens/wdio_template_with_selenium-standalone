@@ -58,13 +58,13 @@ exports.config = {
       
       {
         'maxInstances': 5,
-        'browserName': "MicrosoftEdge",
+        'browserName': "chrome",
         'acceptInsecureCerts': true,
         'goog:chromeOptions' : {
   args:[
     '--window-size=1920,1080',
     '--incognito',
- //   '--headless',
+    '--headless',
   ],
   
         }
