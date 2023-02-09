@@ -15,7 +15,8 @@ jobs:
       fail-fast: false
       matrix:
         node-version: [18.12.1]
-        browser: ['edge']
+        ports:
+        - 4444:4444 # Selenium service
 
     steps:
     - uses: actions/checkout@v3
