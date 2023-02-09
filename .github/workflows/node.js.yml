@@ -29,13 +29,6 @@ jobs:
     - name: selenium standalone
       run:   npm install @wdio/selenium-standalone-service --save-dev
     - run: npm run build --if-present
-    - name: Download Selenium Standalone
-      run: |
-        wget https://selenium-release.storage.googleapis.com/${SELENIUM_VERSION}/selenium-server-standalone-${SELENIUM_VERSION}.jar
-
-    - name: Start Selenium Standalone
-      run: |
-        java -jar selenium-server-standalone-${SELENIUM_VERSION}.jar &
     - run: npm run wdio
    
 
