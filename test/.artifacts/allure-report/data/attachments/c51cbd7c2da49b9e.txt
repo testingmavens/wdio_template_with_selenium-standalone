@@ -1,3 +1,0 @@
-URL  : https://www.google-analytics.com/j/collect?v=1&_v=j99&a=1246558363&t=pageview&_s=1&dl=https%3A%2F%2Fwww.testingmavens.com%2F&ul=en-us&de=UTF-8&dt=Home%20-%20Testing%20Mavens%20-%20Software%20Testing%20Redefined&sd=24-bit&sr=1280x720&vp=975x530&je=0&_u=YEBAAEABAAAAACAAI~&jid=817337542&gjid=2033489671&cid=450589655.1675862351&tid=UA-66977106-1&_gid=491654139.1675862351&_r=1&_slc=1&gtm=45He3260n81549Q6DV&z=1937766347
- Method : POST
- StatusCode  : 200
