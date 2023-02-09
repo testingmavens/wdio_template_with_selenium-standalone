@@ -27,8 +27,8 @@ jobs:
     - run: npm ci
     - run: npm run build --if-present
     - run: npm install selenium-standalone -g
-    - run:  selenium-standalone install && selenium-standalone start
     - run: npm install
+    - run:  selenium-standalone install && selenium-standalone start
     - run: npm run wdio
     - name: Install allure commandline
       if: success() || failure()
