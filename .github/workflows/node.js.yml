@@ -14,9 +14,8 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        node-version: [18.12.1]
-        ports:
-        - 4444:4444 # Selenium service
+        node-version: [18]
+
 
     steps:
     - uses: actions/checkout@v3
