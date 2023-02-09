@@ -1,5 +1,5 @@
 
-name: Selenium standalone with wdio intercept-service
+name: Selenium standalone 
 
 on:
   workflow_dispatch:
