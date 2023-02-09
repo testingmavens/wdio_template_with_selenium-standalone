@@ -1,0 +1,46 @@
+
+name: Selenium standalone 
+
+on:
+  workflow_dispatch:
+jobs:
+ test:
+    name: Test
+    runs-on: ubuntu-latest
+
+    container:
+      image: node:19
+
+    strategy:
+      fail-fast: false
+      matrix:
+        browser: ['chrome', 'firefox', 'edge']
+
+    services:
+      selenium:
+        image: selenium/standalone-${{ matrix.browser }}
+        options: --shm-size=2gb
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '19'
+          cache: 'npm'
+      - run: npm ci
+
+      - run: npm run wdio
+   
+
+      - name: Install allure commandline
+        if: success() || failure()
+        run: npm i -g allure-commandline
+      - name: Combine Allure
+        if: success() || failure()
+        run: npm run allureCombine
+      - name: Upload test report
+        if: success() || failure()
+        uses: actions/upload-artifact@v2
+        with:
+            name: Allure report
+            path: test/.artifacts/allure-report/complete.html
