@@ -3,15 +3,7 @@ name: Node.js CI
 
 on:
   workflow_dispatch:
-   inputs:
-      browser:
-        type: choice
-        description: Which browser to test
-        required: true
-        options:
-          - chrome
-          - firefox
-          - edge
+
   push:
     branches: [ "master" ]
 
@@ -32,10 +24,7 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-      env:
-         BROWSER: ${{ github.event.inputs.browser }}   
-    - run: npm ci
-    - run: npm run build --if-present
+
     - run: npm run wdio
     - name: Install allure commandline
       if: success() || failure()
