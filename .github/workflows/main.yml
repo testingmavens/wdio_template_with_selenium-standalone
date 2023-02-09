@@ -32,7 +32,7 @@ jobs:
           node-version: '19'
           cache: 'npm'
       - run: npm ci
-      - run: npm run test
+      - run: npm run wdio
         env:
           BROWSER: ${{ github.event.inputs.browser }}
       - uses: actions/upload-artifact@v3
