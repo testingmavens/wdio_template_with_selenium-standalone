@@ -58,19 +58,6 @@ exports.config = {
       
       {
         'maxInstances': 5,
-        'browserName': "chrome",
-        'acceptInsecureCerts': true,
-        'goog:chromeOptions' : {
-  args:[
-    '--window-size=1920,1080',
-    '--incognito',
-    '--headless',
-  ],
-  
-        }
-      },
-      {
-        'maxInstances': 5,
         'browserName': "MicrosoftEdge",
         'acceptInsecureCerts': true,
         'goog:chromeOptions' : {
@@ -158,24 +145,24 @@ exports.config = {
           }
         }
       },
-//     ]
-//   ],
+    ]
+  ],
   
-//  services: [
-//         [
-//             'selenium-standalone',
-            {
-                // version of the browser driver
-                version: '190.0',
-                // install chromedriver
-                drivers: {
-                    chrome: {
-                        version: '109.0'
-                    }
-                }
-            }
-        ]
-   ],
+// //  services: [
+// //         [
+// //             'selenium-standalone',
+//             {
+//                 // version of the browser driver
+//                 version: '190.0',
+//                 // install chromedriver
+//                 drivers: {
+//                     chrome: {
+//                         version: '109.0'
+//                     }
+//                 }
+//             }
+//         ]
+//    ],
 
 
   // Framework you want to run your specs with.
