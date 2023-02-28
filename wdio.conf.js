@@ -141,7 +141,7 @@ exports.config = {
       {
         "drivers": {
           "edge": {
-            "version": "4.0"
+            "version": "100.0"
           }
         }
       },
